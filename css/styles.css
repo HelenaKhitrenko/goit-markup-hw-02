@@ -209,6 +209,10 @@ body {
   color: var(--white);
 }
 
+.footer-add {
+  font-style: normal;
+}
+
 .footer-address {
   font-size: 14px;
   line-height: 1.71;
